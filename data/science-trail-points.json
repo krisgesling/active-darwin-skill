@@ -1,0 +1,57 @@
+{ "points": [
+  { "id": 1,
+    "name": "Mangroves",
+    "snippet": "Mangroves are an important part of our coastal ecosystem. They filter water and sediment and provide habitat for a range of inter-tidal wildlife including birds,reptiles and invertebrates. Mangroves provide a nursery for many fish species.Highly specialised plants of the mangrove such as Rhizophora and Sonneratia species offer a buffer against storm and tidal erosion.",
+    "question": "How do these plants survive underwater?"
+  },
+  { "id": 2,
+    "name": "Revegetation",
+    "snippet": "East Point Reserve was extensively cleared in the 1960s and after cyclone Tracy in 1974. Re-vegetation of cleared areas and restoration of remnant monsoon rainforest is ongoing at the Reserve. Planting different species throughout the year assists the rain-forest to maintain its biodiversity and provides habitat for flora and fauna of the Darwin region.",
+    "question": "How many different plant species do you think grow at East Point Reserve?"
+  },
+  { "id": 3,
+    "name": "Pests",
+    "snippet": "An important part of managing East Point Reserve is dealing with pests. This includes reducing invasive weeds and animal pests such as the Cane Toad (Rhinella marina). Cane Toads were first detected in Darwin in 2005, after migrating from Queensland where they were introduced in 1935 as an unsuccessful biological control for cane beetles. Their highly toxic poison is deadly to many native fauna species including mammals, snakes and lizards.",
+    "question": "None"
+  },
+  { "id": 4,
+    "name": "In the Dark",
+    "snippet": "East Point Reserve is home to a variety of native fauna. Many of these species such as possums, owls and monitor lizards are more active at night (nocturnal). Even wallabies prefer to feed when the sun goes down for safety from predators and to avoid the heat of the day. Many nocturnal species have developed physiological adaptations that help them see at night.",
+    "question": "What other nocturnal animals do you think live in the reserve?"
+  },
+  { "id": 5,
+    "name": "Bush Tucker",
+    "snippet": "Having a remnant monsoon rainforest so close to the city gives us access and insight into the many native plants that indigenous people have used for thousands of years and still use today such as the Australian Ebony, which when red this bitter tasting fruit is eaten straight from the tree. The traditional custodians of the Darwin region, the Larrakia people enjoy the variety of local seafood, molluscs and mangrove plants available at East Point.",
+    "question": "None"
+  },
+  { "id": 6,
+    "name": "Homes and Habitat",
+    "snippet": "Homes come in many shapes and sizes. This is the nest of the Orange-footed Scrubfowl (Megapodius reinwardt). Commonly called ‘Bush Chooks’ these birds are common in the Darwin region and are often found in backyards but not many backyards have a nest this big! These nests are such an iconic feature of the area.",
+    "question": "None"
+  },
+  { "id": 7,
+    "name": "Atlas Moth",
+    "snippet": "The Atlas Moth (Attacus wardi) hasn't been seen at East Point Reserve since the 1960s, when the area was heavily cleared of vegetation. With continued revegetation of important habitat and food plants such as the Croton habrophyllus, Pittosporum moluccanum and Litsea glutinosa this impressive giant moth will be reintroduced to East Point Reserve.",
+    "question": "None"
+  },
+  { "id": 8,
+    "name": "Erosion",
+    "snippet": "Being a city located on the coast has many benefits but makes the land vulnerable to erosion by waves. The natural process of cliff faces and rocks being eroded into the ocean can reveal beautiful rock formations. However the unpredictable nature of eroding rocks can make these areas dangerous. City of Darwin is working to minimise the impact of erosion at East Point Reserve and other coastal areas around Darwin.",
+    "question": "None"
+  },
+  { "id": 9,
+    "name": "Migratory birds",
+    "snippet": "Australia is a haven for migratory shorebirds during the Northern Hemisphere winter (our wet season). There are over 15 visiting bird species that frequent this area making it an important habitat not only locally but globally. The number of bird species found in the Reserve has been recorded at 189 making it an ideal location for bird watchers.",
+    "question": "None"
+  },
+  { "id": 10,
+    "name": "Wallabies",
+    "snippet": "East Point Reserve is home to a wild population of Agile Wallabies (Macropus agilis). These macropods thrive here due to a large amount of native vegetation for cover and protection, interspersed with open grazing areas and water points. This is one of few wild populations so close to a capital city. Wallabies are an iconic species loved by residents and tourists alike.",
+    "question": "None"
+  },
+  { "id": 11,
+    "name": "Start Here",
+    "snippet": "Start at the East Point Reserve carpark.",
+    "question": "None"
+  }
+]}
